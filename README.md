@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
 <h3 align="center">Systems Engineering student, focused on web development.</h3>
-<p align=”center”>
-
-<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://i.pinimg.com/564x/a1/50/49/a15049822a199bfc54e718d8e5e69ef3.jpg)" alt=”my banner”>
-
-</p>
 
 - 🔭 I’m currently working on **shopping catalog**
 
