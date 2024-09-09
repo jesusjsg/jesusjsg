@@ -2,6 +2,10 @@
 
 ###
 
+<h2 align="left">📞 Connect with me:</h2>
+
+###
+
 <br clear="both">
 
 <div align="left">
@@ -11,15 +15,9 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusjsg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="140" alt="languages graph"  />
-</div>
+<h2 align="left">💻 Languages and tools:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -43,6 +41,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jesusjsg/jesusjsg/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusjsg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="140" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
