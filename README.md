@@ -50,7 +50,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusjsg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusjsg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jesusjsg&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
