@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi! I'm a backend developer passionate about contributing to open-source and optimizing applications. My specialty is development with PHP, Python, and JavaScript. Currently, I'm expanding my skills by learning Flutter and React. Outside of code, I enjoy music 🎵 and video games 🎮. I love learning from others and collaborating on projects that can make a difference. Always open to new learning opportunities!</p>
+<p align="left">Hi! I'm a backend developer passionate about contributing to open-source and optimizing applications. My specialty is development with PHP, Python, and JavaScript. Outside of code, I enjoy music 🎵 and video games 🎮. I love learning from others and collaborating on projects that can make a difference. Always open to new learning opportunities!</p>
 
 ###
 
