@@ -11,4 +11,4 @@ I love Adventure Time and video games (I might learn more C soon to start creati
 
 Learn as much as you can, use your favorite tools, and most importantly: **love turtles**!
 
-![chill-jake-and-finn](./jake-finn.jpg) 
+<img src="./jake-finn.jpg" alt="chill-jake-and-finn" height="200">
